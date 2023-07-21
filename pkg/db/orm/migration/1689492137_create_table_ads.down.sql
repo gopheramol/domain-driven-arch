@@ -1,0 +1,2 @@
+ALTER TABLE ads DROP CONSTRAINT ads_user_id_fkey;
+DROP TABLE ads;
